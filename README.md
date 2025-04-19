@@ -13,7 +13,7 @@ A Linux command-line tool for managing student records with teacher and student 
 - Code: Modular and commented
 
 ## Project by:
-Zonia Amer
-Abrar Fazal
+-Zonia Amer
+-Abrar Fazal
 
 Run sms.sh in Linux terminal to start. Developed as a semester project following strict academic guidelines.
